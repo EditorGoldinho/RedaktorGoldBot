@@ -1,1 +1,0 @@
-(skrócona wersja – pełny kod w poprzednich krokach)
