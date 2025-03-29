@@ -1,0 +1,1 @@
+(skrócona wersja – pełny kod GUI Streamlit z poprzednich kroków)
